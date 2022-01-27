@@ -381,6 +381,12 @@ body {
           transform: scale(150%);
 }
 
+@media (max-width: 500px) {
+  .stories__slider-img {
+    width: 85%;
+  }
+}
+
 .examples {
   margin-bottom: 200px;
 }
