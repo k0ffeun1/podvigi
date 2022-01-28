@@ -98,8 +98,6 @@ body {
     background-image: url(../images/header/bg__header.png);
     background-size: cover;
 }
-.header__inner {
-}
 .header__text {
     text-align: center;
 }
@@ -271,15 +269,9 @@ body {
 .desicion {
     margin-bottom: 40px;
 }
-.desicion__inner {
-}
-.desicion__title {
-}
 .desicion__content {
     max-width: 780px;
     margin: 0 auto;
-}
-.desicion__item {
 }
 .desicion__item-title {
     margin-bottom: 0;
@@ -307,8 +299,6 @@ body {
       .slick-next {
         right: 46%;
     }
-}
-.slider2__item {
 }
 .slider2__item:hover {
     transform: scale(107%);
@@ -348,12 +338,6 @@ body {
 .why {
     margin-bottom: 200px;
 }
-.container {
-}
-.why__inner {
-}
-.why__title {
-}
 .why__text {
     max-width: 780px;
     margin: 0 auto;
@@ -383,13 +367,12 @@ body {
         right: 40%;
     }
 }
-.stories__slider-item {
-}
 .stories__slider-img:focus {
     transform: scale(150%);
 }
 .stories__slider-img {
-   
+    width: 100%;
+    height: 100%;
 }
 @media (max-width: 769px) {
     .stories__slider-img {
@@ -528,18 +511,6 @@ body {
     background-size: cover;
     background-position: bottom;
 }
-.container {
-}
-.footer__inner {
-}
-.footer__title {
-}
-.title {
-}
-.footer__text {
-}
-.text {
-}
 .footer__list {
     display: flex;
     justify-content: space-between;
@@ -555,8 +526,6 @@ body {
 }
 .footer__item2 {
     margin-right: 20px;
-}
-.footer__item-img {
 }
 .fooer__item-title {
     font-family: 'AmericanCaptain';

@@ -82,7 +82,7 @@ $(document).ready(function () {
         ]
     });
     $('.stories__slider').slick({
-        initialSlide: 0,
+        initialSlide: 3,
         slidesToShow: 1,
         slidesToScroll: 1,
         dots: false,
